@@ -64,7 +64,7 @@
   }
   @media(max-width:768px){
     .slider-container img {
-       width: 350px;
+       width: 334px;
       }
   }
   .slider-container img.active {
